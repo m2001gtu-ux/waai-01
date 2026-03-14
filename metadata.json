@@ -1,0 +1,7 @@
+{
+  "name": "まち声ラボ (Machigoe Lab)",
+  "description": "難解な行政資料をAIで可視化・要約し、市民の意見形成を支援するシビックテック・プラットフォーム。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
